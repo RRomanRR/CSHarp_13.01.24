@@ -21,7 +21,9 @@ bool b = false;
 foreach (int element in array)
 {
     if (element == a)
+    
         b = true;
+    
 }
 
 {
